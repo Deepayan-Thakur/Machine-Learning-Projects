@@ -12,7 +12,7 @@ This folder contains the data files used in the Titanic Survival Prediction proj
 
 ## Features and Target
 
-### Features in `train.csv` and `test.csv`
+### Features in `titanic.csv`
 - **`PassengerId`**: Unique identifier for each passenger.
 - **`Pclass`**: Passenger class (1st, 2nd, or 3rd).
 - **`Name`**: Name of the passenger.
