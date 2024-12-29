@@ -50,11 +50,7 @@ machine-learning-projects/
 Predicting the survival of passengers on the Titanic using various machine learning algorithms. 
 This project involves data cleaning, feature engineering, and model training.
 ```
-### Project 2: CIFAR-10 with Cryptography 🔒
-```bash
-Combining computer vision with cryptography techniques to enhance security in image processing applications.
-```
-### Project 3: Handwritten Digit Classification ✍️
+### Project 2: Handwritten Digit Classification ✍️
 ```bash
 Using a neural network to classify handwritten digits from the MNIST dataset. 
 This project includes data augmentation, model training, and evaluation.
