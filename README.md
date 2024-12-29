@@ -35,7 +35,15 @@ machine-learning-projects/
 │   ├── requirements.txt
 │   └── README.md
 ├── Project2/
-│   ├── ...
+│   ├── notebooks/
+│   │   ├── HDC.ipynb              # The single Jupyter notebook containing all steps
+│   │   └── README.md              # Overview of the notebook
+│   ├── results/
+│   │   ├── confusion_matrix.png   # Confusion matrix visualization
+│   │   ├── sample_predictions.png # Predictions on sample data
+│   │   ├── training_history.png   # Training history graph
+├── README.md                  # Project overview
+
 ├── Project3/
 │   ├── ...
 ├── .gitignore
@@ -50,10 +58,24 @@ machine-learning-projects/
 Predicting the survival of passengers on the Titanic using various machine learning algorithms. 
 This project involves data cleaning, feature engineering, and model training.
 ```
-### Project 2: Handwritten Digit Classification ✍️
+### Project 2: Handwritten Digit Classification With OpenCV✍️
 ```bash
 Using a neural network to classify handwritten digits from the MNIST dataset. 
-This project includes data augmentation, model training, and evaluation.
+
+### 1. Notebook Details
+The notebook `HDC.ipynb` contains:
+- Exploratory Data Analysis: Visualizing and understanding the dataset.
+- Data Preprocessing: Preparing the dataset for training, including normalization and splitting.
+- Model Training: Training a Convolutional Neural Network (CNN) on the MNIST dataset.
+- Evaluation: Testing the trained model and visualizing results.
+
+### 2. Key Results
+- Confusion Matrix: 
+
+- Sample Predictions:
+
+- Training History:
+
 ```
 
 ## 🚀 Getting Started
